@@ -32,6 +32,21 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Minha jornada...
+<div align="center">
+  
+<a href="https://github.com/gyuliapiqueira">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=gyuliapiqueira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&langs_count=7&theme=synthwave"/>
+  </a>
+</div>
+  
+<!--<a href="https://github.com/gyuliapiqueira">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=radical" />
+</a>-->
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=tokyonight)](https://github.com/gyuliapiqueira/github-readme-stats)
 
 ![gyuliapiqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuliapiqueira&hide=issues,prs&show_icons=true&theme=tokyonight)]
