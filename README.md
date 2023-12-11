@@ -37,12 +37,12 @@
 <a href="https://github.com/gyuliapiqueira">
   
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gyuliapiqueira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&langs_count=7&theme=synthwave"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
   
 <!--<a href="https://github.com/gyuliapiqueira">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=dracula" />
 </a>-->
 
 
