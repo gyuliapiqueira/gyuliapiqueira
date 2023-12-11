@@ -38,7 +38,7 @@
   
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gyuliapiqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&langs_count=7&theme=radical"/>
-[![gyuliapiqueira stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyuliapiqueira)](https://github.com/gyuliapiqueira/github-readme-stats)
+[![gyuliapiqueira stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyuliapiqueira)](https://github.com/gyuliapiqueira/github-readme-stats)]
   </a>
 </div>
   
