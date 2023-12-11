@@ -49,10 +49,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=tokyonight)](https://github.com/gyuliapiqueira/github-readme-stats)
-
 ![gyuliapiqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuliapiqueira&hide=issues,prs&show_icons=true&theme=tokyonight)
-![gyuliapiqueira stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyuliapiqueira)](https://github.com/gyuliapiqueira/github-readme-stats)
-]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyuliapiqueira)](https://github.com/gyuliapiqueira/github-readme-stats)]
 
     
 
