@@ -46,6 +46,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=radical" />
 </a>-->
 
+<div>
+<a href="https://github.com/gyuliapiqueira">
+   <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=gyuliapiqueira&show_icons=true&theme=radical">
+   <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&show_icons=true&theme=radical">
+</div>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuliapiqueira&layout=compact&theme=tokyonight)](https://github.com/gyuliapiqueira/github-readme-stats)
