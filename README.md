@@ -6,7 +6,7 @@
 ## Sou a Gyulia Piqueira, tenho 19 anos e moro em São Paulo. 
 
 - 👩‍🎓 Técnica em Administração.
-- 📖 Cursando faculdade de sistemas de informação.
+- 📖 Cursando faculdade de Sistemas de Informação.
 - 👩‍💻 Estagiando na Área de TI Financeira de Consignados no Banco Safra.
 - 📣 Desenvolvedora Full Stack.
 - 🆙 Tenho interesse em atuar em diversas áreas da tecnologia para ganhar cada vez mais experiência, tanto em áreas comerciais e de negócios, entedendo a necessidade do cliente e gerindo equipes, como também desenvolvendo no front-end e no back-end. 
