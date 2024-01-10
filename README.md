@@ -16,7 +16,8 @@
 ## Trajetórias e projetos:
 Todos os projetos que desenvolvi foram fundamentados nos conhecimentos adquiridos ao longo de um ano de estudo no curso de Sistemas de Informação na SPTech. Em colaboração com outros colegas, participei da concepção do projeto denominado "ThermoHolic". Esse projeto tinha como finalidade a coleta de dados provenientes de um sensor de temperatura conectado a um Arduino. Os dados eram então enviados para um banco de dados MySQL e apresentados de forma visual através de gráficos e KPIs por meio de uma API chamada Web-Data-Viz, desenvolvida em HTML, CSS e JavaScript. 
 <br>
-<b href="https://github.com/orgs/ThermoHolic-Sprint2/repositories">ThermoHolic</b>
+<a href="https://github.com/orgs/ThermoHolic-Sprint2/repositories" style="color: #FFFF00;">ThermoHolic</a>
+
 
 
 Além disso, colaboramos no desenvolvimento do projeto "NocLine", cuja finalidade era capturar informações de máquinas por meio de APIs criadas em Python e Kotlin. Esses dados eram enviados tanto para o MySQL Server quanto para o MySQL, servindo como uma medida de contingência. A apresentação desses dados também era realizada por meio de gráficos e KPIs, os quais foram implementados utilizando Bootstrap.
