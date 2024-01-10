@@ -18,7 +18,7 @@ Em grupo realizei o projeto chamado "ThermoHolic" que servia para capturar dados
 De forma individual, realizei um projeto em HTML, CSS e JavaScript sobre o Corinthians, o projeto tinha cadastro, login, gráficos, KPI´s e um quiz para interações com o usuário. 
 
 ## Meus conhecimentos: 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=pink)
+![HTML5](https://img.shields.io/badge/html-%0D1117.svg?style=for-the-badge&logo=html&logoColor=pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logoColor=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=pink&labelColor=0D1117)&nbsp;
 ![Noje.JS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=pink)&nbsp;
