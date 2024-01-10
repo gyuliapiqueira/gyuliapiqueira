@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Oie!+Boa-vindas!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF07F">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Oie!+Boa-vindas!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=ff07f">
 </p>
 
 ## Sou a Gyulia Piqueira, tenho 19 anos e moro em São Paulo. 
@@ -8,6 +8,8 @@
 - 👩‍🎓 Técnica em Administração.
 - 📖 Cursando faculdade de Sistemas de Informação.
 - 👩‍💻 Estagiando na Área de TI Financeira de Consignados no Banco Safra.
+- 📣 Desenvolvedora Full Stack.
+- 🆙 Tenho interesse em atuar em diversas áreas da tecnologia para ganhar cada vez mais experiência, tanto em áreas comerciais e de negócios, entedendo a necessidade do cliente e gerindo equipes, como também desenvolvendo no front-end e no back-end. 
 - 💻 Último projeto realizado: NocLine. 
 - 📫 Contate-me no email: gyulia.piqueira@sptech.school.
 
@@ -19,6 +21,9 @@ De forma individual, realizei um projeto em HTML, CSS e JavaScript sobre o Corin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/r-0D1117?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
+![Shel Script](https://img.shields.io/badge/Shell_Script-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
