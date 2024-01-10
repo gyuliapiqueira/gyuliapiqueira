@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Oie!+Boa-vindas!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=f17ea1" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Oie!+Boa-vindas!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF07F">
 </p>
 
 ## Sou a Gyulia Piqueira, tenho 19 anos e moro em São Paulo. 
