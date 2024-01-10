@@ -19,7 +19,7 @@ Todos os projetos que desenvolvi foram fundamentados nos conhecimentos adquirido
 <a href="https://github.com/orgs/ThermoHolic-Sprint2/repositories"> Clique aqui para visitar o projeto ThermoHolic! 🍺🌡️</a>
 <br>
 
-Além disso, colaboramos no desenvolvimento do projeto "NocLine", cuja finalidade era capturar informações de máquinas por meio de APIs criadas em Python e Kotlin. Esses dados eram enviados tanto para o MySQL Server quanto para o MySQL, servindo como uma medida de contingência. A apresentação desses dados também era realizada por meio de gráficos e KPIs, os quais foram implementados utilizando Bootstrap.
+Além disso, colaborei no desenvolvimento do projeto "NocLine", cuja finalidade era capturar informações de máquinas por meio de APIs criadas em Python e Kotlin. Esses dados eram enviados tanto para o MySQL Server quanto para o MySQL, servindo como uma medida de contingência. A apresentação desses dados também era realizada por meio de gráficos e KPIs, os quais foram implementados utilizando Bootstrap.
 <br>
 <a href="https://github.com/orgs/Projeto-Inovacao/repositories"> Clique aqui para visitar o projeto NocLine! 🚇🖥️ </a>
 <br>
