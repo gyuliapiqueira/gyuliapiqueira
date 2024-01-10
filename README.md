@@ -19,7 +19,7 @@ De forma individual, realizei um projeto em HTML, CSS e JavaScript sobre o Corin
 
 ## Meus conhecimentos: 
 ![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=pink&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logoColor=pink&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logoColor=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=pink&labelColor=0D1117)&nbsp;
 ![Noje.JS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=pink)&nbsp;
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=pink)&nbsp;
