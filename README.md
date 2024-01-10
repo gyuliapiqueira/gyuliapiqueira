@@ -18,10 +18,11 @@ Em grupo realizei o projeto chamado "ThermoHolic" que servia para capturar dados
 De forma individual, realizei um projeto em HTML, CSS e JavaScript sobre o Corinthians, o projeto tinha cadastro, login, gráficos, KPI´s e um quiz para interações com o usuário. 
 
 ## Meus conhecimentos: 
-![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=pink&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logoColor=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=pink&labelColor=0D1117)&nbsp;
 ![Noje.JS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=pink)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=pink&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=pink)&nbsp;
 ![R](https://img.shields.io/badge/r-0D1117?style=for-the-badge&logo=r&logoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
