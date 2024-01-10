@@ -1,21 +1,24 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Oie!+Boa-vindas!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF1493">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Oie!+Boas-vindas!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF1493">
 </p>
 
 ## Sou a Gyulia Piqueira, tenho 19 anos e moro em São Paulo. 
 
-- 👩‍🎓 Técnica em Administração.
+- 👩🏻‍🎓 Técnica em Administração.
 - 📖 Cursando faculdade de Sistemas de Informação.
-- 👩‍💻 Estagiando na Área de TI Financeira de Consignados no Banco Safra.
+- 👩🏻‍💻 Estagiando na Área de TI Financeira de Consignados no Banco Safra.
 - 📣 Desenvolvedora Full Stack.
 - 🆙 Tenho interesse em atuar em diversas áreas da tecnologia para ganhar cada vez mais experiência, tanto em áreas comerciais e de negócios, entedendo a necessidade do cliente e gerindo equipes, como também desenvolvendo no front-end e no back-end. 
 - 💻 Último projeto realizado: NocLine. 
 - 📫 Contate-me no email: gyulia.piqueira@sptech.school.
 
-Todos os projetos desenvolvidos foram com base no meu conhecimento absorvido em um ano de curso de Sistemas de Informação na SPTech. 
-Em grupo realizei o projeto chamado "ThermoHolic" que servia para capturar dados de um sensor de temperatura conectado à um arduíno, enviava os dados para o MySQL e apresentava os dados em gráficos e KPI´s através de uma API chamada Web-Data-Viz realizada em HTML, CSS e JavaScript. Além desse foi desenvolvido o projeto "NocLine" que servia para capturar dados de máquina através de API´s desenvolvidas em Python e Kotlin, enviava esses dados ao MySQL Server e ao MySQL como uma forma de contigência e apresentava os dados através de gráficos e KPI´s desenvolvidas no Bootstrap. 
-De forma individual, realizei um projeto em HTML, CSS e JavaScript sobre o Corinthians, o projeto tinha cadastro, login, gráficos, KPI´s e um quiz para interações com o usuário. 
+## Trajetórias e projetos:
+Todos os projetos que desenvolvi foram fundamentados nos conhecimentos adquiridos ao longo de um ano de estudo no curso de Sistemas de Informação na SPTech. Em colaboração com outros colegas, participei da concepção do projeto denominado "ThermoHolic". Esse projeto tinha como finalidade a coleta de dados provenientes de um sensor de temperatura conectado a um Arduino. Os dados eram então enviados para um banco de dados MySQL e apresentados de forma visual através de gráficos e KPIs por meio de uma API chamada Web-Data-Viz, desenvolvida em HTML, CSS e JavaScript.
+
+Além disso, colaboramos no desenvolvimento do projeto "NocLine", cuja finalidade era capturar informações de máquinas por meio de APIs criadas em Python e Kotlin. Esses dados eram enviados tanto para o MySQL Server quanto para o MySQL, servindo como uma medida de contingência. A apresentação desses dados também era realizada por meio de gráficos e KPIs, os quais foram implementados utilizando Bootstrap.
+
+Em projetos individuais, destaco minha iniciativa de criar um sistema em HTML, CSS e JavaScript dedicado ao Corinthians. Este projeto incluía funcionalidades como cadastro, login, gráficos, KPIs e até mesmo um quiz para interações mais dinâmicas com o usuário.
 
 ## Linguagens utilizadas: 
 ![HTML5](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html&labelColor=pink)
