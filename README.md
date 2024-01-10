@@ -16,14 +16,17 @@
 ## Trajetórias e projetos:
 Todos os projetos que desenvolvi foram fundamentados nos conhecimentos adquiridos ao longo de um ano de estudo no curso de Sistemas de Informação na SPTech. Em colaboração com outros colegas, participei da concepção do projeto denominado "ThermoHolic". Esse projeto tinha como finalidade a coleta de dados provenientes de um sensor de temperatura conectado a um Arduino. Os dados eram então enviados para um banco de dados MySQL e apresentados de forma visual através de gráficos e KPIs por meio de uma API chamada Web-Data-Viz, desenvolvida em HTML, CSS e JavaScript. 
 <br>
-<a href="https://github.com/orgs/ThermoHolic-Sprint2/repositories" style="color: #FFFF00;">ThermoHolic</a>
-
-
-
+<a href="https://github.com/orgs/ThermoHolic-Sprint2/repositories"> Clique aqui para visitar o projeto ThermoHolic! 🍺🌡️</a>
+<br>
 Além disso, colaboramos no desenvolvimento do projeto "NocLine", cuja finalidade era capturar informações de máquinas por meio de APIs criadas em Python e Kotlin. Esses dados eram enviados tanto para o MySQL Server quanto para o MySQL, servindo como uma medida de contingência. A apresentação desses dados também era realizada por meio de gráficos e KPIs, os quais foram implementados utilizando Bootstrap.
-####  Link: https://github.com/orgs/Projeto-Inovacao/repositories
+<br>
+<a href="https://github.com/orgs/Projeto-Inovacao/repositories"> Clique aqui para visitar o projeto NocLine! 🚇🖥️ </a>
+<br>
 
 Em projetos individuais, destaco minha iniciativa de criar um sistema em HTML, CSS e JavaScript dedicado ao Corinthians. Este projeto incluía funcionalidades como cadastro, login, gráficos, KPIs e até mesmo um quiz para interações mais dinâmicas com o usuário.
+<br>
+<a href="https://github.com/orgs/Projeto-Individual-SCCP/repositories"> Clique aqui para visitar o projeto FielOn! 🦅</a>
+<br>
 
 ## Linguagens utilizadas: 
 ![HTML5](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html&labelColor=pink)
